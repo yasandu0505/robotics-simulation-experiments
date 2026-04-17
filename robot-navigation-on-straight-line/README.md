@@ -1,4 +1,4 @@
-# e-puck robot simulation
+# Robot Navigation on Straight Line Simulation
 
 ## Getting Started
 
