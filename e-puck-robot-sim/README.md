@@ -32,3 +32,5 @@ The simulation should now load and be ready to run.
 ## Usage
 
 Press the **Play** button in Webots to start the simulation.
+
+![Demo](images/demo.png)
